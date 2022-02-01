@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">A307_E3.6 Lista del Mandado</string>
+
+    <string name="acerca_de">Acerca De...</string>
+
+    <string-array name="acerca_de">
+        <item>Lista del mandado</item>
+        <item></item>
+        <item>Propósito: Aplicar los conceptos de Adaptadores y ListView desarrollando una app donde se apliquen diferentes layouts predefinidos, así como la selección simple y múltiple de elementos en la lista.</item>
+        <item></item>
+        <item>Alumna: Guadalupe del Carmen Torres Vicente</item>
+        <item></item>
+        <item>Num. Control: 18270307</item>
+        <item></item>
+        <item>Docente: Octavio Ariosto Ríos Tercero</item>
+        <item></item>
+        <item>Materia: Programación de Dispositivos Móviles para Android</item>
+        <item></item>
+        <item>Grupo: S7A</item>
+        <item></item>
+        <item>Fecha: 07-Diciembre-2021</item>
+    </string-array>
+</resources>
